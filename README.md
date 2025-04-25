@@ -25,3 +25,8 @@ git clone https://github.com/Ashwinthraj05/crypto-tracker.git
 cd crypto-tracker
 npm install
 npm run dev
+
+
+## 🙌 Acknowledgements
+Built as part of my internship project submission.
+
